@@ -1,6 +1,6 @@
 # Olá! 👨‍💻
 
-Olá, sou o Erick, e estou atualmente cursando Sistemas de Informação, focando minha trajetória como desenvolvedor Frontend.
+Meu nome é Erick, e estou atualmente cursando Sistemas de Informação, focando minha trajetória como desenvolvedor Frontend.
 
 📈 Confira algumas estatísticas do meu GitHub:
 
